@@ -1,63 +1,62 @@
-[README (1).md](https://github.com/user-attachments/files/33833270/README.1.md)[Uploading README (1).md…]# Hi, I'm Varshitha Chappidi 👋
+# Hi, I'm Varshitha Chappidi 👋
 
-**AI/ML Engineer | Machine Learning · Generative AI · RAG · Agentic AI**
+**AI Engineer | NLP · Generative AI · RAG · LLM Evaluation**
 
-🔗 **[Explore my portfolio](https://scintillating-stroopwafel-6e3a8f.netlify.app)** · [GitHub](https://github.com/VarshithaChappidi)
+📍 McKinney, Texas, USA · [Portfolio](https://scintillating-stroopwafel-6e3a8f.netlify.app) · [GitHub](https://github.com/VarshithaChappidi)
 
-I’m an AI/ML Engineer with 3+ years of experience building machine learning, deep learning, and Generative AI solutions across healthcare, financial services, and e-commerce. I work with structured and unstructured data to develop predictive models, retrieval systems, and AI-powered applications, with a focus on evaluation, reliable deployment, and practical business impact.
+I build NLP models, retrieval-augmented generation applications, LLM evaluation pipelines, and tool-using AI workflows. My work combines Python, PyTorch, Hugging Face Transformers, LangChain, and LangGraph with reproducible evaluation, retrieval quality analysis, and production-minded deployment using FastAPI, Docker, AWS, and MLflow. I enjoy turning product requirements into testable AI features, understanding failure modes, and making model limitations visible.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- **Languages & Data:** Python, SQL, NumPy, Pandas, SciPy, Apache Spark, ETL/ELT, data validation, feature engineering
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, classification, regression, predictive modeling, model optimization and evaluation
-- **Generative AI:** LLMs, prompt engineering, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, embeddings, vector databases, AI agents, tool calling, LLM evaluation, guardrails, multimodal AI
-- **MLOps & Deployment:** MLflow, experiment tracking, model versioning, serving, monitoring, FastAPI, REST APIs, microservices, Docker, Kubernetes
-- **Cloud:** AWS, AWS SageMaker, AWS CDK, Azure, Google Cloud Platform (GCP)
-- **Engineering Practices:** Git, unit testing, integration testing, data pipelines, model lifecycle management
+- **Programming & Data:** Python, SQL, Pandas, NumPy, data preprocessing, dataset validation
+- **Machine Learning & NLP:** PyTorch, Hugging Face Transformers, scikit-learn, BERT, transformer fine-tuning, intent classification, sentiment analysis, text classification, error analysis
+- **Generative AI:** RAG, LangChain, LangGraph, Claude API, prompt and context engineering, tool calling, structured outputs, Pydantic, human-in-the-loop workflows
+- **Retrieval & Evaluation:** Embeddings, hybrid search, BM25, cross-encoder reranking, PostgreSQL/pgvector, Recall@K, macro F1, groundedness evaluation, human evaluation, regression testing
+- **Backend & MLOps:** FastAPI, REST APIs, Docker, AWS, MLflow, GitHub Actions, CI/CD, model versioning, application logging, latency and cost monitoring
+- **Engineering Practices:** Pytest, unit and integration testing, Git, code reviews, technical documentation, requirements analysis, cross-functional collaboration
 
-## 🚀 Selected Work
+## Featured Projects
 
-### Financial RAG Evaluation & Analyst Agent
-[Repository: `financial-rag-eval`](https://github.com/VarshithaChappidi/financial-rag-eval)
+### [Financial RAG Evaluation & Grounded Answering Agent](https://github.com/VarshithaChappidi/financial-rag-eval)
 
-A retrieval-augmented question-answering system over FY2025 10-K filings from five large U.S. banks. It evaluates dense and BM25 retrieval, reciprocal-rank fusion, and cross-encoder reranking, and includes a LangGraph analyst workflow with source citations, numeric verification, and a human-approval step.
+A retrieval-augmented question-answering system over FY2025 SEC 10-K filings for five large U.S. banks. The pipeline combines BM25 and dense retrieval, reciprocal-rank fusion, company filtering, and cross-encoder reranking.
 
-### Text-to-SQL QLoRA Fine-Tuning
-[Repository: `text2sql-qlora`](https://github.com/VarshithaChappidi/text2sql-qlora) · [Fine-tuned model](https://huggingface.co/Varshitha2603/qwen2.5-coder-3b-text2sql-qlora)
+- Evaluated five retrieval configurations on 34 questions; reranking improved **Hit@5 from 0.82 to 0.97** and **MRR@5 from 0.66 to 0.77**.
+- Built a LangGraph analyst workflow with source citations, calculator-backed arithmetic, numeric verification, investment-advice refusal, retry handling, and a human-approval checkpoint.
+- Added automated tests for calculator safety, verification, refusal, retries, and human rejection; GitHub Actions runs the test suite.
 
-Fine-tuned Qwen2.5-Coder-3B-Instruct with QLoRA and evaluated it on 300 held-out text-to-SQL examples, including before-and-after comparisons and error analysis.
+### [Text-to-SQL Fine-Tuning with QLoRA](https://github.com/VarshithaChappidi/text2sql-qlora) · [Fine-tuned model](https://huggingface.co/Varshitha2603/qwen2.5-coder-3b-text2sql-qlora)
 
-### Additional AI/ML Experience
+Fine-tuned Qwen2.5-Coder-3B-Instruct on 5,000 examples using 4-bit QLoRA, training approximately **0.96% of the model parameters** on a Colab T4 GPU.
 
-- Built predictive financial models and transaction feature workflows to support spending-pattern analysis and personalized financial insights.
-- Developed LLM and RAG capabilities for contextual explanations of financial activity.
-- Worked on loan-default risk classification, financial-data preprocessing, and model evaluation.
-- Built e-commerce product classification and semantic retrieval workflows using text features, embeddings, and vector databases.
+- Evaluated on 300 held-out examples; normalized SQL exact match increased from **57.0% to 77.3%**.
+- Analyzed errors involving ambiguous questions, copied values, join logic, and limitations in exact-match scoring.
 
-## 💼 Professional Experience
+## Professional Experience
 
-- **AI/ML Engineer — Salesforce, USA** | Aug 2025–Present
-- **AI Engineer — Anthropic, USA** | Jan 2025–Jun 2025
-- **ML Engineer — TCS, India** | Jan 2022–Jul 2023
+- **AI Engineer — Scale AI, USA** | May 2025–Present
+- **AI Engineer Intern — Anthropic, USA** | Jan 2025–Apr 2025
+- **AI Engineer — Observe.AI, India** | Jun 2021–Jul 2023
 
-## 🎓 Education
+My work spans retrieval quality, LLM evaluation, agent reliability, transformer-based NLP, conversation intelligence, and evaluation-driven model improvement.
+
+## Education
 
 - **M.S., Computer and Information Science** — University of North Texas, USA | Aug 2023–May 2025
 - **B.S., Computer Science** — K L University, India | Jun 2019–May 2023
 
-## 📄 Publication
+## Publication
 
 Co-authored the peer-reviewed IEEE ICAAIC 2023 paper **“Interactive Projection Technology Using Hand Gesture Recognition with Attention Mechanism and ResNet.”**
 
 [Read the paper (DOI)](https://doi.org/10.1109/ICAAIC56838.2023.1014115)
 
-## 📫 Connect
+## Connect
 
-- **Portfolio:** https://scintillating-stroopwafel-6e3a8f.netlify.app
-- **GitHub:** https://github.com/VarshithaChappidi
-- **Email:** Varshitha1391@careerattainment.com
+- **Portfolio:** [scintillating-stroopwafel-6e3a8f.netlify.app](https://scintillating-stroopwafel-6e3a8f.netlify.app)
+- **GitHub:** [VarshithaChappidi](https://github.com/VarshithaChappidi)
+- **Email:** [Chappidi1391@careerattainment.com](mailto:Chappidi1391@careerattainment.com)
 
 ---
 
-*I’m interested in building useful, well-evaluated AI systems that connect machine learning research with real-world applications.*
-()
+*I’m interested in building useful, well-evaluated AI systems that connect machine learning research with reliable, real-world applications.*
