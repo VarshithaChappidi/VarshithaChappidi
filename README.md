@@ -2,7 +2,7 @@
 
 **AI Engineer | NLP · Generative AI · RAG · LLM Evaluation**
 
-📍 McKinney, Texas, USA · [Portfolio](https://scintillating-stroopwafel-6e3a8f.netlify.app) · [GitHub](https://github.com/VarshithaChappidi) · [Email](mailto:Chappidi1391@careerattainment.com)
+📍 McKinney, Texas, USA · [Portfolio](https://varshitha-portfolio-0.netlify.app) · [GitHub](https://github.com/VarshithaChappidi) · [Email](mailto:Chappidi1391@careerattainment.com)
 
 AI Engineer with 3+ years of experience building NLP models, retrieval-augmented generation (RAG) applications, LLM evaluation pipelines, and tool-using AI workflows. Skilled in Python, PyTorch, Hugging Face Transformers, LangChain, and LangGraph, with a background in conversational intelligence and enterprise AI applications. Focused on retrieval quality, reproducible evaluations, reliable deployment, and translating product requirements into testable AI features.
 
