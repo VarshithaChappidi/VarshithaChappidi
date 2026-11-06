@@ -71,7 +71,7 @@ Fine-tuned a code model using 4-bit QLoRA on 5,000 examples and evaluated normal
 
 Co-authored a peer-reviewed IEEE ICAAIC 2023 paper on an attention- and ResNet-based hand-gesture recognition system for touchless presentation navigation.
 
-[Read the IEEE paper](https://doi.org/10.1109/ICAAIC56838.2023.1014115)
+[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10141150/) · [DOI: 10.1109/ICAAIC56838.2023.10141150](https://doi.org/10.1109/ICAAIC56838.2023.101411500)
 
 ## Education
 
