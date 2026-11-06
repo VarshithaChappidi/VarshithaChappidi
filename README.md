@@ -1,5 +1,7 @@
 # Hi, I'm Varshitha C 👋
 
+🌐 **[Open my live portfolio](https://varshithaportfolio-ai-engineer.vercel.app/)**
+
 **AI Engineer | Applied AI Engineer | NLP · Generative AI · RAG · LLM Evaluation**
 
 📍 McKinney, TX, USA · [Portfolio](https://varshithaportfolio-ai-engineer.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chappidi-varshitha/) · [Email](mailto:varshithachappidi586@gmail.com)
