@@ -2,7 +2,7 @@
 
 **AI Engineer | Applied AI Engineer | NLP · Generative AI · RAG · LLM Evaluation**
 
-📍 McKinney, TX, USA · [Portfolio](https://varshitha-portfolio-0.netlify.app) · [LinkedIn](https://www.linkedin.com/in/chappidi-varshitha/) · [Email](mailto:varshithachappidi586@gmail.com)
+📍 McKinney, TX, USA · [Portfolio](https://varshithaportfolio-ai-engineer.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chappidi-varshitha/) · [Email](mailto:varshithachappidi586@gmail.com)
 
 AI Engineer experienced in developing NLP models, retrieval-augmented generation applications, LLM evaluation pipelines, and tool-using AI workflows. Skilled in Python, PyTorch, Hugging Face Transformers, LangChain, and LangGraph, with a background in conversational intelligence and enterprise AI applications. Focused on retrieval and model quality, reproducible evaluations, and deploying inference services with FastAPI, Docker, AWS, and MLflow. I work with product, engineering, and annotation teams to turn requirements into testable AI features and communicate model limitations.
 
