@@ -40,6 +40,11 @@ AI Engineer experienced in developing NLP models, retrieval-augmented generation
 
 ## Featured Projects
 
+### [Pika PACE — Autonomous Generative Video Studio](https://agenticai-lime-five.vercel.app/)
+**Interactive prototype · Agent-first creative workflow · Model MCP · Storyboarding**
+
+Public Vercel demo of an agent-first creative studio concept. The interface includes natural-language scene prompts, multi-shot storyboard orchestration, a generative timeline and viewport, camera-motion controls, an MCP configuration panel, and gateway/cost-monitoring UI.
+
 ### [Grounded Knowledge Assistant with Hybrid Retrieval](https://github.com/VarshithaChappidi/Grounded-Knowledge-Assistant-with-Hybrid-Retrieval)
 **Python · FastAPI · Hybrid Retrieval · RRF · scikit-learn · PostgreSQL/pgvector schema**
 
